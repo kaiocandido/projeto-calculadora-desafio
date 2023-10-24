@@ -8,7 +8,7 @@
 
 <h4>Projeto</h4>
 
-<img src="https://github.com/kaiocandido/projeto-shopping-desafio/blob/main/Projeto/4.png?raw=true"/>
+<img src="[https://github.com/kaiocandido/projeto-shopping-desafio/blob/main/Projeto/4.png?raw=true](https://github.com/kaiocandido/projeto-calculadora-desafio/blob/main/funciomento.png?raw=true)"/>
 
 <h4>Linguagens Usadas</h4>
 
