@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Playpen Sans' rel='stylesheet'>
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <header id="header">
+        <p> Convert Currencies </p>
+    </header>
+
+    <main id="main">
+
+
+        <label id="box-grande">
+            Converter <b>de</b>
+            <select id="box-media">
+                <option id="real" value="real">R$ Real Brasileiro</option>
+                <option value="dolar">US$ Dolar</option>
+                <option value="euro">€ Euro</option>
+                <option value="libra">£ Libra</option>
+                <option value="bitcoin">Ƀ Bitcoin</option>
+            </select>
+        </label>
+
+
+        <label class="conver">
+            <b> Para </b>
+            <select class="optins">
+                <option value="dolar">US$ Dolar</option>
+                <option value="euro">€ Euro</option>
+                <option value="libra">£ Libra</option>
+                <option value="bitcoin">Ƀ Bitcoin</option>
+                <option id="real">R$ Real Brasileiro</option>
+            </select>
+        </label>
+
+
+        <label id="valor">
+            Valor
+            <input type="number" class="final" placeholder="R$ 100,00" />
+        </label>
+
+        <button>Converter</button>
+
+
+
+        <section class="section">
+            <div class="brasil">
+                <img class="img-brasil" src="./brasil 2.png" alt="real" />
+                <p class="p">Real</p>
+                <p class="p2" id="realll">RS$</p>
+            </div>
+            <img class="seta" src="./Vector.png" alt="seta" />
+            <div class="eua">
+                <img class="img2" src="./estados-unidos (1) 1.png" alt="dolar" />
+                <p id="pp">Dolar</p>
+                <p class="p4" id="dolarrr">US$</p>
+            </div>
+
+        </section>
+
+
+    </main>
+</body>
+
+<script src="./script.js"></script>
+
+</html>
