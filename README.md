@@ -6,7 +6,7 @@
 
 <br>
 
-<h4>Projeto No Smartphone Com Responsividade</h4>
+<h4>Projeto</h4>
 
 <img src="https://github.com/kaiocandido/projeto-shopping-desafio/blob/main/Projeto/4.png?raw=true"/>
 
