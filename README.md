@@ -1,28 +1,46 @@
-# projeto-calculadora
+# Aplicação Web - Projeto Full Stack do Dev Club
 
-<H1> Projeto com HTML e CSS e JS </H1>
+Bem-vindo ao repositório do projeto final do curso Full Stack do Dev Club! Este projeto é uma aplicação web desenvolvida utilizando HTML, CSS e JavaScript, demonstrando os conhecimentos adquiridos ao longo do curso.
 
-<h2> Projeto sobre uma aplicação web feita no curso Full stack do <a href="https://rodolfomori.com.br/devclub/">Dev Club</a></h2>
+## 🚀 Sobre o Projeto
 
-<br>
+Esta aplicação web é uma **Calculadora de Conversão de Moedas** que permite a conversão entre quatro moedas principais: Euros, Dólares, Reais Brasileiros e Bitcoins. A calculadora oferece uma interface intuitiva para os usuários inserirem um valor e selecionar a moeda de origem e a moeda de destino, realizando a conversão com base nas taxas de câmbio atuais.
 
-<h4>Projeto</h4>
+### Funcionalidades Principais:
+
+- Conversão entre Euros, Dólares, Reais Brasileiros e Bitcoins.
+- Atualização das taxas de câmbio em tempo real
+- Interface simples e amigável para uma fácil utilização.
+- Suporte a diferentes formatos de moeda e exibição de resultados precisos.
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5**: Estruturação e organização do conteúdo da aplicação.
+- **CSS3**: Estilização e design responsivo.
+- **JavaScript**: Interatividade e lógica da aplicação, incluindo as funcionalidades de conversão e manipulação de dados.
+
+## 🎨 Funcionalidades
+
+- **Conversão de Moeda**: Converta valores entre Euros, Dólares, Reais Brasileiros e Bitcoins.
+- **Atualização de Taxas de Câmbio**: (Se implementado) Receba as taxas de câmbio mais recentes.
+- **Interface de Usuário Intuitiva**: Formulário de entrada para valor e seletores de moeda.
+
+## 📁 Estrutura do Projeto
+
+- `index.html`: Estrutura principal da aplicação.
+- `styles.css`: Arquivo de estilos da aplicação.
+- `script.js`: Lógica e interatividade da aplicação, incluindo a conversão de moedas.
+
+## 📝 Como Executar o Projeto
+
+1. Abra o arquivo <a href="https://projeto-calculadora-desafio.vercel.app/"> Acessa Projeto</a> em seu navegador para visualizar a aplicação.
 
 
-<img  src="https://github.com/kaiocandido/projeto-calculadora-desafio/blob/main/conve.png?raw=true" alt="logo"/>
-<br>
-<img src="https://github.com/kaiocandido/projeto-calculadora-desafio/blob/main/funciomento.png?raw=true"/>
+## 💬 Contato
 
-<p> Funcionalidade</p>
-<br>
-<img  src="https://github.com/kaiocandido/projeto-calculadora-desafio/blob/main/conve.png?raw=true" alt="logo"/>
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-<br>
-<br>
-<a href="https://projeto-calculadora-desafio.vercel.app/"> Acessa Projeto</a>
+- **Email**: kaio.candf@gmail.com
+- **LinkedIn**: <a href="https://www.linkedin.com/in/kaio-candido-9813b0285/">Kaio Candido</a>
 
-<h4>Linguagens Usadas</h4>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo" width=100px height=30px>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo" width=100px height=30px>
-<img src="https://img.shields.io/badge/javascript-blue?logo=javascript" alt="logo" width=100px height=30px/>
